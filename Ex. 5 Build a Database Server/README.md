@@ -108,6 +108,8 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 3: Sample Database and Table
 
+![image alt](https://github.com/manikandan-bot/Blended-Labs-2025-26-Even/blob/779ff5fdeaa583f1a6098acae035c028ff1b223b/Ex.%205%20Build%20a%20Database%20Server/Screenshot%202026-03-13%20125520.png)
+
 
 ---
 
