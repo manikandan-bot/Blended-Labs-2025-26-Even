@@ -95,11 +95,12 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-
+![image alt](https://github.com/manikandan-bot/Blended-Labs-2025-26-Even/blob/cb5d341da20f0c15eefd9a57ea7bcfdef0d16e3d/Ex.%205%20Build%20a%20Database%20Server/Screenshot%202026-03-13%20121540.png)
 
 ---
 
 ### Screenshot 2: Database Service Running
+
 
 
 
