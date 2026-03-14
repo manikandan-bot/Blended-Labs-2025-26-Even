@@ -101,7 +101,7 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 2: Database Service Running
 
-
+![image alt](https://github.com/manikandan-bot/Blended-Labs-2025-26-Even/blob/043cc068ee8ed07be8a1d811c5f93cc3e13e019d/Ex.%205%20Build%20a%20Database%20Server/Screenshot%202026-03-13%20123824.png)
 
 
 ---
